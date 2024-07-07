@@ -1,6 +1,3 @@
-# Here's a sample GitHub README description for your Stylez project:
-
----
 
 # Stylez
 
